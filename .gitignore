@@ -1,0 +1,8 @@
+# Docker data (Base de datos local)
+db_data/
+
+# IDEs
+.vscode/
+
+# Logs y archivos temporales
+*.log
